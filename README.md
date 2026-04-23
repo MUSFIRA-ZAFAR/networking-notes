@@ -17,6 +17,7 @@
 |---|-------|--------|
 | 01 | [OSI Model](./01-OSI-Model/notes.md) | ✅ Complete |
 | 02 | [Routers](./02-Devices/routers.md) | ✅ Complete |
+
 | 03 | [Switches](./02-Devices/switches.md) | ✅ Complete |
 | 04 | [Firewalls](./02-Devices/firewalls.md) | ✅ Complete |
 | 05 | [IDS & IPS](./02-Devices/ids-ips.md) | ✅ Complete |
@@ -98,7 +99,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[██████████░░░░░░░░░░] 7/20 topics complete
+[██░░░░░░░░░░░░░░░░░░] 2/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
