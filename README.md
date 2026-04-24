@@ -1,3 +1,6 @@
+
+---
+
 # 📡 Networking Notes
 
 > A structured, in-depth collection of networking concepts documented as part of my journey toward becoming a **SOC Analyst**.
@@ -99,7 +102,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[██░░░░░░░░░░░░░░░░░░] 2/20 topics complete
+[███░░░░░░░░░░░░░░░░░] 3/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
