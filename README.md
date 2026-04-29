@@ -99,7 +99,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[██████░░░░░░░░░░░░░░] 6/20 topics complete
+[███████░░░░░░░░░░░░░] 7/20 topics complete — 🎉 Module 1 Complete!
 ```
 
 Updated as new topics are added. Follow along!
