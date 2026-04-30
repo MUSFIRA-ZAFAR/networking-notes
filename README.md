@@ -23,7 +23,8 @@
 | 05 | [IDS & IPS](./02-Devices/ids-ips.md) | ✅ Complete |
 | 06 | [Load Balancers](./02-Devices/load-balancers.md) | ✅ Complete |
 | 07 | [Proxies](./02-Devices/proxies.md) | ✅ Complete |
-| 08 | TCP/IP Model | 🔄 Coming soon |
+| 08 | [NAS & SAN](./02-Devices/nas-san.md) | ✅ Complete |
+| 09 | TCP/IP Model | 🔄 Coming soon |
 | 09 | Subnetting | 🔄 Coming soon |
 | 10 | VLANs | 🔄 Coming soon |
 | 11 | DNS & DHCP | 🔄 Coming soon |
@@ -99,7 +100,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[███████░░░░░░░░░░░░░] 7/20 topics complete — 🎉 Module 1 Complete!
+[████████░░░░░░░░░░░░] 8/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
